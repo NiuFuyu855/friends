@@ -1,6 +1,6 @@
 # [月光的小伙伴们](https://off.cx/links/)
 
-[![Lunar Friends](https://github.com/NuFuyu855/friends/workflows/Lunar%20Friends/badge.svg)](https://friends.off.cx)
+[![Lunar Friends](https://github.com/NiuFuyu855/friends/actions/workflows/build.yml/badge.svg)](https://friends.off.cx)
 [![links.json](https://img.shields.io/badge/links.json-yellow)](https://friends.off.cx/links.json)
 
 ## 友链说明
